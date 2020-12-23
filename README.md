@@ -1,1 +1,1 @@
-# fopp
+Foundations of Python Programming exercises
